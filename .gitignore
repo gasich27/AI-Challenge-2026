@@ -1,0 +1,22 @@
+data/
+results/
+models/
+catboost_info/
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+*.log
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+Frame 765.png
