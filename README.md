@@ -1,4 +1,4 @@
-# AI Challenge 2026 — Retention Prediction
+# AI Challenge 2026 (Qualification) — Retention Prediction
 
 Классификация пользователей по признаку retention на основе агрегированной статистики сессий и покупок.
 
