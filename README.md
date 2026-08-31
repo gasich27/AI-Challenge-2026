@@ -5,6 +5,7 @@
 ## Стек
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
+![pandas](https://img.shields.io/badge/pandas-data-150458)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![CatBoost](https://img.shields.io/badge/CatBoost-model-green)
 
